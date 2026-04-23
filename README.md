@@ -57,5 +57,22 @@ java Main
 4. Email notifications
 5. Web version
 
+## 📸 Screenshots
+
+### Main Menu
+![Main Menu](screenShots/MainMenu.png)
+
+### Student Menu
+![Student Menu](screenShots/StudentMenu.png)
+
+### Librarian Menu
+![Librarian Menu](screenShots/LibrarianMenu.png)
+
+### Admin Menu
+![Admin Menu](screenShots/AdminMenu.png)
+
+### Project Structure
+![Admin Menu](screenShots/ProjectStructure.png)
+
 Author 
 Prasanna S
